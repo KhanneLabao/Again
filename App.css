@@ -1,0 +1,23 @@
+.navbar{
+    width: 1200px;
+    margin: auto;
+    padding: 2rem 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem;
+    color: white;
+    position: relative;
+    bottom: 600px;
+    color: black;
+    text-align: center;
+    text-align: center;
+    text-align: center;
+  
+  }
+  
+  .logo{
+      display: flex;
+      gap: 0.5rem;
+      align-items: center;
+  }
